@@ -1,0 +1,6 @@
+Predict
+RecursiveLearning epoch 300: [20, 25, 26, 29, 31, 45]
+CNN Model 2: [13, 23, 25, 33, 37, 39]
+CNN Model 1: [10, 11, 12, 22, 26, 27]
+LSTM: [5, 6, 13, 20, 26, 27]
+Resnet: [13, 22, 27, 35, 42, 45]

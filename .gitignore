@@ -1,5 +1,11 @@
+#AIStock
 AIStock/idea
 AIStock/venv
 AIStock/StockIndexHandling/.idea/
 AIStock/StockIndexHandling/target/
 AIStock/StockIndexHandling/StockIndexHandling.iml
+
+#Lottery
+lottery_prediction/.idea/
+lottery_prediction/src/preprocessingData/__pycache__
+lottery_prediction/src/models/keras/__pycache__/
